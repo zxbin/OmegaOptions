@@ -1,3 +1,39 @@
+# 内容：Instagram
+# 数量：5条
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+
+# 内容：YouTube
+# 数量：12条
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+USER-AGENT,com.google.ios.youtube*
+DOMAIN-KEYWORD,youtube
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+# 内容：Twitter
+# 数量：11条
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,vine.co
+
 # 内容：Github
 # 数量：6条
 DOMAIN-KEYWORD,github
